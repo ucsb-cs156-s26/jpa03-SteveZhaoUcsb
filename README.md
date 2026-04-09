@@ -1,5 +1,4 @@
 # STARTER-jpa03
-
 Running at: <https://jpa03-stevezhaoucsb.dokku-15.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
